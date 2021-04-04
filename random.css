@@ -1,0 +1,27 @@
+*{
+    color: black;
+    text-align: center;
+    
+}
+body{
+    background:  linear-gradient(lightblue,purple,violet) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+header{
+    margin-top: 7%;
+    font-size: 2em;
+}
+.input-div{
+    margin-top: 30px;
+}
+footer{
+    margin-top: 50px;
+    font-size: 1.5em;
+}
+#btn{
+    color: blueviolet;
+}
